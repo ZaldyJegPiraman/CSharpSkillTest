@@ -27,7 +27,7 @@ Design patterns used:
 - MSTest
 - MVC + Strategy Pattern
 
-## Project Structure
+## 📂 Project Structure
 
 CSharpSkillTest/
 ├── Models/
@@ -50,6 +50,11 @@ CSharpSkillTest/
 └── UnitTests/
 ├── SortTests.cs
 └── CSharpSkillTest.UnitTests.csproj
+---
+
+# ⚠ IMPORTANT — DO NOT MISS THIS
+The code block **must** start with:
+
 
 ## How to Run
 
