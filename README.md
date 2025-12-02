@@ -29,31 +29,30 @@ Design patterns used:
 
 ## 📂 Project Structure
 
+```plaintext
 CSharpSkillTest/
 ├── Models/
-│ ├── ISortStrategy.cs
-│ ├── BubbleSortStrategy.cs
-│ ├── QuickSortStrategy.cs
-│ └── SortModel.cs
+│   ├── ISortStrategy.cs
+│   ├── BubbleSortStrategy.cs
+│   ├── QuickSortStrategy.cs
+│   └── SortModel.cs
 │
 ├── Controllers/
-│ └── SortController.cs
+│   └── SortController.cs
 │
 ├── Views/
-│ ├── MainForm.cs
-│ └── MainForm.Designer.cs
+│   ├── MainForm.cs
+│   └── MainForm.Designer.cs
 │
 ├── Program.cs
 ├── CSharpSkillTest.csproj
 ├── CSharpSkillTest.sln
 │
 └── UnitTests/
-├── SortTests.cs
-└── CSharpSkillTest.UnitTests.csproj
----
+    ├── SortTests.cs
+    └── CSharpSkillTest.UnitTests.csproj
+```
 
-# ⚠ IMPORTANT — DO NOT MISS THIS
-The code block **must** start with:
 
 
 ## How to Run
