@@ -50,7 +50,7 @@ CSharpSkillTest/
 │
 └── UnitTests/
     ├── SortTests.cs
-    └── CSharpSkillTest.UnitTests.csproj
+    └── CSharpSkillTest.UnitTest.csproj
 ```
 
 
