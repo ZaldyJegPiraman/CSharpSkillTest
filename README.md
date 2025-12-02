@@ -30,13 +30,26 @@ Design patterns used:
 ## Project Structure
 
 CSharpSkillTest/
- ├── Models/
- ├── Controllers/
- ├── Views/
- ├── Program.cs
- ├── CSharpSkillTest.csproj
- ├── CSharpSkillTest.sln
- └── UnitTests/
+├── Models/
+│ ├── ISortStrategy.cs
+│ ├── BubbleSortStrategy.cs
+│ ├── QuickSortStrategy.cs
+│ └── SortModel.cs
+│
+├── Controllers/
+│ └── SortController.cs
+│
+├── Views/
+│ ├── MainForm.cs
+│ └── MainForm.Designer.cs
+│
+├── Program.cs
+├── CSharpSkillTest.csproj
+├── CSharpSkillTest.sln
+│
+└── UnitTests/
+├── SortTests.cs
+└── CSharpSkillTest.UnitTests.csproj
 
 ## How to Run
 
